@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="PhoneNumber">Number</string>
+    <string name="enterOtp">OTP</string>
+    <string name="verifyOtp">Enter OTP</string>
+    <string name="verifyOtpButton">Verify OTP</string>
+    <string name="phoneHint">Please enter your phone number to continue</string>
+    <string name="didn_t_get_otp_resend">Didn\'t get OTP ? <b>Resend</b></string>
+    <string name="submitButton">submit</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="continue_button">continue</string>
+    <string name="please_enter_the_otp_we_sent">Please enter the OTP we sent</string>
+    <string name="todo">TODO</string>
+    <string name="verifyingPhoneNumber">verifying Phone number</string>
+    <string name="log_in">You\'re log in as</string>
+    <string name="log_out">Log Out</string>
+</resources>
